@@ -8,3 +8,8 @@
 .nav-bg{
     background-color: rgba(186, 222, 255, 0.26);
 }
+
+.active {
+    background-color: #422AD5;
+    color: white;
+}
